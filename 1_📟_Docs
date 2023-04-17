@@ -53,3 +53,4 @@ if st.button("app.py 코드 보기"):
   cols[2].line_chart(chart_data)
     '''
     st.code(code, language='python')
+    
