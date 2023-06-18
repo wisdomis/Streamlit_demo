@@ -4,7 +4,7 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 
-st.title('반도체 주식 데이터 Dashboard')
+st.title('데이터 Dashboard')
 # tickers =('TSLA','AAPL','MSFT','BTC-USD','ETH-USD','005930.KS')
 tickers ={
   'SK hynix':'000660.KS',
